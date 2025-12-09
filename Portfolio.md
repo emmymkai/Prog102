@@ -24,5 +24,14 @@
   Following lessons on tinkercad to make simulations of circuits.
   <img width="1866" height="1009" alt="Screenshot 2025-11-04 201846" src="https://github.com/user-attachments/assets/31e29528-d846-4a3f-8946-d93624b63ec0" />
 
-  This software allows you to make circuits by connecting various types of technology models. 
+  This software allows you to make circuits by connecting various types of technology models. This lesson was a battery connection to an LED with a resistor to prevent the LED from exploding due to the high voltage of the battery. 
 
+**Survival of the Best Fit:**
+  Learn more about AI Bias in hiring with the game "Survival of the Best Fit", manually review the resumes of applicants and decide who to hire, a time consuming process. 
+![sobf](https://github.com/user-attachments/assets/d030ecc1-adba-4c2f-9b13-3a21f3e032cd)
+
+  Playing Survival of the Best Fit was an engaging and eye opening experience. The game's simple mechanics made it easy to understand at first, but as the hiring rounds progressed, the consequences of my choices while being under pressure, and the biases built into the system, became increasingly clear. The fast pace and limited information created a sense of pressure that felt surprisingly realistic, mirroring how quick and imperfect real hiring decisions can be. By the end, it didn't feel like just a game, it felt like a simulation of how easily inequality can develop through automated decision making. 
+
+From the experience, I learned how algorithms can unintentionally reinforce existing biases, even when they're designed to be "fair". The game showed how data used to train hiring systems often reflects past discrimination, and how relying solely on these systems can cause biases that disadvantage certain groups of people. I also realized how small decisions like which metric to prioritize or how much weight to give the algorithm can compound into large scale disparities over time. 
+
+If i were given the opportunity to improve the game, I would add a reflective debrief after each hiring round to help players more clearly connect their decisions to the resulting demographic shifts. I'd also include short explanations of real world algorithmic bias cases to deepen player understanding. Finally, offering multiple difficulty levels or scenarios such as different industries or data sets could enrich the learning experience and show how context influences fairness in automated systems.  
