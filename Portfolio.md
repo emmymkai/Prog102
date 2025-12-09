@@ -19,3 +19,10 @@
   I chose to do my project about healthcare not being affordable for most young adults. The target audience is young adults ages 18-30 who work gig, part-time, freelance, or service industry jobs and do not receive employer sponsored health insurance. This ground often includes rideshare drivers, food delivery workers, retail employees, baristas, artists, recent college graduates, and people juggling multiple part-time jobs. Many of these young adults live paycheck to paycheck, rely heavily on their phone for information, and often prioritize immediate financial needs (such as rent, food, transportation) over long term health planning. They are also among the most likely to be uninsured at some point during the year, worried about medical bills, delaying/skipping care due to cost, or unaware of affordable coverage options.
 
   The project was completeted as a website format with multiple interactable sections, even with a quiz toward the end to demonstrate how likely people are to be in need of help regarding health care. 
+
+**Circuit Simulation:**
+  Following lessons on tinkercad to make simulations of circuits.
+  <img width="1866" height="1009" alt="Screenshot 2025-11-04 201846" src="https://github.com/user-attachments/assets/31e29528-d846-4a3f-8946-d93624b63ec0" />
+
+  This software allows you to make circuits by connecting various types of technology models. 
+
